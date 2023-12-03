@@ -7,7 +7,7 @@ const app = express();
 app.use(cors());
 
 // Initialize Firestore with your credentials
-const serviceAccount = require("C:/Users/Jefferson Langbid/Desktop/WeatherEats/weathereats.json");
+const serviceAccount = require("C:/Users/Jefferson Langbid/Desktop/_WeatherEats/weathereats.json");
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
 });

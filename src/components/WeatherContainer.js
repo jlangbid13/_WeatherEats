@@ -106,8 +106,8 @@ const styles = StyleSheet.create({
   bottomContainer: {
     flexDirection: 'column',
     width: '99.5%',
-    borderLeftWidth: 63,
-    borderRightWidth: 63,
+    borderLeftWidth: 76,
+    borderRightWidth: 76,
     justifyContent: 'space-between',
     borderColor: '#78aed3',
     padding: 20,
