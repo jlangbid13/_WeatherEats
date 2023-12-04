@@ -8,7 +8,7 @@ Members:
  - Allyssa Lacsamana
  - Jefferson Langbid
 
-WeatherAPI
+WeatherAPI -
 OpenWeatherMap
 
 Frameworks used
